@@ -531,7 +531,9 @@
                 "__ATOMIC_ACQ_REL=4",
                 "__ATOMIC_RELEASE=3",
                 "__BUILTIN_AVR_FMUL=1",
-                "USBCON"
+                "USBCON",
+                "__AVR_ATmega2560__",
+                "ARDUINO=10800"
             ]
         }
     ]
