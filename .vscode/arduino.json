@@ -2,6 +2,12 @@
     "configuration": "cpu=atmega2560",
     "board": "arduino:avr:mega",
     "programmer": "arduino:avrisp",
-    "port": "COM1",
-    "sketch": "Function_Test_VS_mk1.ino"
+    "port": "COM3",
+    "sketch": "Function_Test_VS_mk1\\Function_Test_VS_mk1.ino",
+    "buildPreferences": [
+        [
+            "build.extra_flags",
+            "-D__AVR_ATmega2560__"
+        ]
+    ]
 }
