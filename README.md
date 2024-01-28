@@ -1,0 +1,1 @@
+The goal of this project is to function as a example of combining the Bolder FLight SBus library (https://github.com/bolderflight/sbus) and Pololu's Maestro (https://www.pololu.com/category/102/maestro-usb-servo-controllers) so that you can use RC transmitters (such as FrSky) to control servos connected to a Pololu Maestro. 
